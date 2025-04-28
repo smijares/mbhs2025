@@ -1,6 +1,6 @@
-# mbcs2025
+# Spectral ORthogonal Transform ENcoder – lossY (SORTENY)
 
-Code repository from "Learned spectral and spatial transforms for multispectral remote sensing data compression", by S. Mijares, J. Bartrina-Rapesta, M. Hernández-Cabronero, and J. Serra-Sagristà, submitted to the IEEE Geoscience and Remote Sensing Letters in 2025. This repository contains the scripts to train and run the proposed models. The following ReadMe details how to use the code, where to access test data, and the paper's pre trained models.
+Beta source code repository of the Spectral ORthogonal Transform ENcoder – lossY (SORTENY), published in "Learned spectral and spatial transforms for multispectral remote sensing data compression", by S. Mijares, J. Bartrina-Rapesta, M. Hernández-Cabronero, and J. Serra-Sagristà IEEE Geoscience and Remote Sensing Letters, 2025. This repository contains the scripts to train and run the proposed models. The following ReadMe details how to use the code, where to access test data, and the paper's pre trained models.
 
 ## Test data
 
@@ -14,7 +14,7 @@ The data type is 1 for 8-bit data (unsigned), 2 for 16-bit unsigned integers, 3 
 
 ## Models
 
-Pre-trained models to generate the results in this paper are available in the [GICI website](https://gici.uab.cat/GiciWebPage/downloads.php).
+Pre-trained SORTENY models to generate the results in this paper are available in the [GICI website](https://gici.uab.cat/GiciWebPage/downloads.php).
 
 ## Training a model
 
