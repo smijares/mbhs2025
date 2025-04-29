@@ -4,7 +4,7 @@ Beta source code repository of the Spectral ORthogonal Transform ENcoder – los
 
 ## Test data
 
-The publically available sources of test data used for this paper, Landsat 8 OLI, AVIRIS, and Sentinel 2A, are available in the [GICI website](https://gici.uab.cat/GiciWebPage/datasets.php).
+The publically available sources of test data used for this paper, Landsat 8 OLI and AVIRIS, are available in the [GICI website](https://gici.uab.cat/GiciWebPage/datasets.php).
 
 Data is stored in .raw format as 16-bit unsigned samples, little endian byte order, and BSQ sample order. Test data files are stored with a standardised filename that the architecture script is automated to read:
 
