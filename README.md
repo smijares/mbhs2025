@@ -16,6 +16,8 @@ The data type is 1 for 8-bit data (unsigned), 2 for 16-bit unsigned integers, 3 
 
 Pre-trained SORTENY models to generate the results in this paper are available in the [GICI website](https://gici.uab.cat/GiciWebPage/downloads.php).
 
+[29/05/2025] AVIRIS1 model published in that repository is not properly stored and cannot be used. A corrected version will be uploaded.
+
 ## Training a model
 
 To train a model, call the `train` command in the architecture script using the corresponding options. For example:
